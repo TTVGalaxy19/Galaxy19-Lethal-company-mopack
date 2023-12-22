@@ -1,6 +1,7 @@
 ## Galaxy19 Lethal company Modpack change log
 
 ## Version 2 (beta)
+- v2.0.1 added added some balancing mods like lethal utilitys and also compatability checker with a few more quality of life mods
 - v2.0.0 added late company, late game upgrades, quota role over and a few other qualty of life mods
 
 ## Version 1 (Pre releases)
