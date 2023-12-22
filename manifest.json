@@ -5,6 +5,6 @@
     "description": "Modpack for Galaxy19 and my friends",
     "dependencies": [
         "2018-LC_API-3.0.0",
-        "notnotnotswipez-MoreCompany-1.7.2",
+        "notnotnotswipez-MoreCompany-1.7.2"
     ]
 }
