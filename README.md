@@ -1,1 +1,1 @@
-# Galaxy19-Lethal-company-mudpack
+# Galaxy19-Lethal-company-modpack
