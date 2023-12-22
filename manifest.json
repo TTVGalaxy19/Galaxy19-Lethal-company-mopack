@@ -1,6 +1,7 @@
 {
     "name": "Galaxy19_Modpack",
-    "version_number": "2.0.1",
+    "version_number": "3.0.0",
     "website_url": "https://github.com/TTVGalaxy19/Galaxy19-Lethal-company-mopack",
-    "description": "Modpack for Galaxy19 and my friends, Aiming for a Vanilla+ experiance without breaking the emersion, feel free to join the discord and join in on the chaos"
+    "description": "Modpack for Galaxy19 and my friends, Aiming for a Vanilla+ experiance without breaking the emersion, feel free to join the discord and join in on the chaos",
+    "dependencies": []
 }
