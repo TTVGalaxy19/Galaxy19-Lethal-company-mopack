@@ -1,2 +1,22 @@
-# Galaxy19-Lethal-company-modpack
-## [Discord Server](https://discord.gg/dXycaWR88z)
+# Galaxy19 Lethal company modpack
+## all mods are cloned into the modpack with there config files already setup so it should just be 1 mod to plug and play without any conflics during version updates (also to mod authers please let me know if this is an issue for you and i will fix it) 
+### [Discord Server](https://discord.gg/dXycaWR88z)
+
+# SOURCE MODS
+- [FlipMods-MoreBlood-1.0.2](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood)
+- [FlipMods-ReservedWalkieSlot-1.4.6](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)
+- [AllToasters-SpectateEnemies-1.5.0](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies)
+- [anormaltwig-LateCompany-1.0.6](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
+- [notnotnotswipez-MoreCompany-1.7.2](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
+- [x753-More_Suits-1.4.1](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)
+- [boxofbiscuits97-QuotaRollover-2.1.0](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover)
+- [2018-LC_API-3.0.1](https://thunderstore.io/c/lethal-company/p/2018/LC_API)
+- [BepInEx-BepInExPack-5.4.2100](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack)
+- [Evaisa-HookGenPatcher-0.0.5](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
+- [FlipMods-ReservedItemSlotCore-1.5.2](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
+- [Evaisa-LethalLib-0.7.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/0.7.0)
+- [PopleZoo-BetterItemScan-2.1.6](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan)
+- [malco-Lategame_Upgrades-2.7.1](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)
+- [Hexnet111-SuitSaver-1.1.2](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver)
+- [Ryokune-CompatibilityChecker-1.1.6](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)
+- [kyxino-LethalUtilities-1.2.8](https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities)
