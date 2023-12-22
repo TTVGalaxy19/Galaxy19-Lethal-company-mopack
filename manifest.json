@@ -1,12 +1,16 @@
 {
     "name": "Galaxy19_Modpack",
-    "version_number": "1.0.2",
+    "version_number": "2.0.0",
     "website_url": "https://github.com/TTVGalaxy19/Galaxy19-Lethal-company-mopack",
-    "description": "Modpack for Galaxy19 and my friends, feel free to join the discord and join the chaos",
+    "description": "Modpack for Galaxy19 and my friends, Aiming for a Vanilla+ experiance without breaking the emersion, feel free to join the discord and join in on the chaos",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100",
-        "2018-LC_API-3.0.1",
         "notnotnotswipez-MoreCompany-1.7.2",
-        "x753-More_Suits-1.4.1"
+        "x753-More_Suits-1.4.1",
+        "malco-Lategame_Upgrades-2.7.1",
+        "FlipMods-ReservedWalkieSlot-1.4.6",
+        "FlipMods-MoreBlood-1.0.2",
+        "anormaltwig-LateCompany-1.0.6",
+        "boxofbiscuits97-QuotaRollover-2.1.0",
+        "PopleZoo-BetterItemScan-2.1.6"
     ]
 }
