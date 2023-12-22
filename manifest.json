@@ -1,8 +1,8 @@
 {
     "name": "Galaxy19_Modpack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/TTVGalaxy19/Galaxy19-Lethal-company-mopack",
-    "description": "Modpack for Galaxy19 and my friends",
+    "description": "Modpack for Galaxy19 and my friends, feel free to join the discord and join the chaos",
     "dependencies": [
         "2018-LC_API-3.0.0",
         "notnotnotswipez-MoreCompany-1.7.2"
