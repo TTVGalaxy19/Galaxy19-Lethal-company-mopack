@@ -1,6 +1,7 @@
 ## Galaxy19 Lethal company Modpack change log
 
 ## Version 3 (Alpah)
+- v3.0.1 bug with beplnExpack not initalising _state file set as dependancey & extrated mod files to plugins folder
 - v3.0.0 cloned all mods into the modpack since r2mod man dosnt unnstall unused dependanceys yet (all mod authers are in README.md) inital configs set gameplay testing requierd
 
 ## Version 2 (beta)
