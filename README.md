@@ -10,7 +10,6 @@
 - [notnotnotswipez-MoreCompany-1.7.2](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
 - [x753-More_Suits-1.4.1](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)
 - [boxofbiscuits97-QuotaRollover-2.1.0](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover)
-- [2018-LC_API-3.0.1](https://thunderstore.io/c/lethal-company/p/2018/LC_API)
 - [Evaisa-HookGenPatcher-0.0.5](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
 - [FlipMods-ReservedItemSlotCore-1.5.2](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
 - [Evaisa-LethalLib-0.7.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/0.7.0)
