@@ -3,18 +3,12 @@
 ### [Discord Server](https://discord.gg/dXycaWR88z)
 
 # SOURCE MODS
-- [FlipMods-MoreBlood-1.0.2](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood)
-- [FlipMods-ReservedWalkieSlot-1.4.6](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)
-- [AllToasters-SpectateEnemies-1.5.0](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies)
-- [anormaltwig-LateCompany-1.0.6](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
-- [notnotnotswipez-MoreCompany-1.7.2](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
-- [x753-More_Suits-1.4.1](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)
-- [boxofbiscuits97-QuotaRollover-2.1.0](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover)
-- [Evaisa-HookGenPatcher-0.0.5](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
-- [FlipMods-ReservedItemSlotCore-1.5.2](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
-- [Evaisa-LethalLib-0.7.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)
-- [PopleZoo-BetterItemScan-2.1.6](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan)
-- [malco-Lategame_Upgrades-2.8.0](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)
-- [Hexnet111-SuitSaver-1.1.2](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver)
-- [Ryokune-CompatibilityChecker-1.1.6](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)
-- [kyxino-LethalUtilities-1.2.8](https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities)
+## DEPENDENCIES
+- [BepInEx-BepInExPack-5.4.2100](thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack)
+  
+## GAME BALANCE
+
+## QUALITY OF LIFE
+
+## COSMETIC
+
