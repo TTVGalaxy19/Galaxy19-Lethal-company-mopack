@@ -43,5 +43,5 @@
 - setup config files for QOL mods  ✅
 - add cosmetic mods  ✅
 - setup config files for cosmetic mods  ✅
-- add custom suits
-- gameplay loop testing 
+- add custom suits ✅
+- gameplay loop testing work in progress
