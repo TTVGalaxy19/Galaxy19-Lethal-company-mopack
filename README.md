@@ -9,7 +9,7 @@
 - [Evaisa-HookGenPatcher-0.0.5](thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
 - [2018-LC_API-3.2.2](thunderstore.io/c/lethal-company/p/2018/LC_API)
 - [Evaisa-LethalLib-0.9.0](thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)
-- [FlipMods-ReservedItemSlotCore-1.7.1](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
+- [FlipMods-ReservedItemSlotCore-1.7.2](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
 
 ### CORE
 - [Ryokune-CompatibilityChecker-1.1.6](thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)
@@ -22,8 +22,13 @@
 - [boxofbiscuits97-QuotaRollover-2.1.0](thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover)
 
 ### QUALITY OF LIFE
+- [PopleZoo-BetterItemScan-2.1.7](thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan)
+- [FlipMods-ReservedWalkieSlot-1.5.1](thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)
+- [AllToasters-SpectateEnemies-2.0.0](thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies)
 
-### COSMETIC
+### COSMETICS
+- [x753-More_Suits-1.4.1](thunderstore.io/c/lethal-company/p/x753/More_Suits)
+- [FlipMods-MoreBlood-1.0.2](thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood)
 
 ## TODO
 
@@ -33,9 +38,10 @@
 - setup config files for dependencies and core mods ✅ <br>
 (disabled console can be re-opened through editing BepInEx.cfg and set Logging.Console too true)
 - add game balance mods ✅
-- setup config files for game balance mods 
-- add QOL mods
-- setup config files for QOL mods
-- add cosmetic mods
-- setup config files for cosmetic mods
+- setup config files for game balance mods ✅
+- add QOL mods ✅
+- setup config files for QOL mods  ✅
+- add cosmetic mods  ✅
+- setup config files for cosmetic mods  ✅
 - add custom suits
+- gameplay loop testing 
