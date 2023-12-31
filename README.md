@@ -1,18 +1,41 @@
 # Galaxy19 Lethal company modpack
-## all mods are cloned into the modpack with there config files already setup so it should just be 1 mod to plug and play without any conflics during version updates (also to mod authers please let me know if this is an issue for you and i will fix it) 
+### all mods are cloned into the modpack with there config files already setup so it should just be 1 mod to plug and play without any conflicts during version updates (also to mod authors please let me know if this is an issue for you and I will fix it) 
 ### [Discord Server](https://discord.gg/dXycaWR88z)
 
 # SOURCE MODS
 
-DEPENDENCIES
+### DEPENDENCIES
 - [BepInEx-BepInExPack-5.4.2100](thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack)
 - [Evaisa-HookGenPatcher-0.0.5](thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
 - [2018-LC_API-3.2.2](thunderstore.io/c/lethal-company/p/2018/LC_API)
 - [Evaisa-LethalLib-0.9.0](thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)
-- [FlipMods-ReservedItemSlotCore-1.7.1](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore) 
-GAME BALANCE
+- [FlipMods-ReservedItemSlotCore-1.7.1](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
 
-QUALITY OF LIFE
+### CORE
+- [Ryokune-CompatibilityChecker-1.1.6](thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)
+- [anormaltwig-LateCompany-1.0.8](thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
+- [notnotnotswipez-MoreCompany-1.7.2](thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
 
-COSMETIC
+### GAME BALANCE
+- [malco-Lategame_Upgrades-2.8.5](thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)
+- [kyxino-LethalUtilities-1.2.11](thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities)
+- [boxofbiscuits97-QuotaRollover-2.1.0](thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover)
 
+### QUALITY OF LIFE
+
+### COSMETIC
+
+## TODO
+
+- get BepInEx loading ✅
+- add Dependencies ✅
+- add core mods ✅
+- setup config files for dependencies and core mods ✅ <br>
+(disabled console can be re-opened through editing BepInEx.cfg and set Logging.Console too true)
+- add game balance mods ✅
+- setup config files for game balance mods 
+- add QOL mods
+- setup config files for QOL mods
+- add cosmetic mods
+- setup config files for cosmetic mods
+- add custom suits
