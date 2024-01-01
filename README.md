@@ -9,14 +9,14 @@
 - [Evaisa-HookGenPatcher-0.0.5](thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)
 - [2018-LC_API-3.2.2](thunderstore.io/c/lethal-company/p/2018/LC_API)
 - [Evaisa-LethalLib-0.9.0](thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)
-- [FlipMods-ReservedItemSlotCore-1.7.2](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
+- [FlipMods-ReservedItemSlotCore-1.7.3](thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
 - [Rune580-LethalCompany_InputUtils-0.4.4](thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils)
 - [NotAtomicBomb-TerminalApi-1.4.0](thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi)
 
 ### CORE
 - [Sligili-HDLethalCompany-1.5.6](thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany)
 - [Ryokune-CompatibilityChecker-1.1.6](thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)
-- [anormaltwig-LateCompany-1.0.8](thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
+- [anormaltwig-LateCompany-1.0.9](thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
 - [notnotnotswipez-MoreCompany-1.7.2](thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
 
 ### GAME BALANCE

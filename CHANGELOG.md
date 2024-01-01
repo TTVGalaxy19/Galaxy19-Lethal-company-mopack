@@ -1,6 +1,8 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
 ## version 4 (pulled from beta)
+- v4.3.2 reduced more blood spatters
+- v4.3.1 updated late company and reservied item slot core
 - v4.3.0 added Fair AI and config file tweaked
 - v4.2.0 added HD mod set resalution to 1.5x base game resolution 
 - v4.1.0 added terminal autocomplet 
