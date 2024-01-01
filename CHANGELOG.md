@@ -1,6 +1,7 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
 ## version 4 (pulled from beta)
+- v4.0.2 disabled Lobbysettings.cfg + added SpectateEnemy.cfg and tweaked it
 - v4.0.1 updated skins
 - v4.0.0 pulled from beta version of modpack 
 
