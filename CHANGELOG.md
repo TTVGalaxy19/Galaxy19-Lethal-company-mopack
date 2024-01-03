@@ -1,6 +1,8 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
 ## version 4 (pulled from beta)
+- v4.4.0 8 mods updated and 2 more added have fun
+- v4.3.3 added HDamc custom skin
 - v4.3.2 reduced more blood spatters
 - v4.3.1 updated late company and reservied item slot core
 - v4.3.0 added Fair AI and config file tweaked
