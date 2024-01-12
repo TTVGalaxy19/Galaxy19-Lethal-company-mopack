@@ -1,5 +1,9 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
+## Version 5 (the big rebalance)
+- v5.0.1 fix the mod refrances 
+- v5.0.0 changed late game upgrades and other configs to re-balance the upgrades weather now effects scrap
+
 ## version 4 (pulled from beta)
 - v4.4.0 8 mods updated and 2 more added have fun
 - v4.3.3 added HDamc custom skin
