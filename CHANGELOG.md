@@ -1,5 +1,8 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
+## Version 6 (Pull from main branch)
+- v6.0.0 atempt to fix modpack for V47
+
 ## Version 0 (Pre releases)
 - v0.2.0 reserved item slot core mod update 1.7.1 > 1.7.2 + more config tweaking + cosmetic mods 
 - v0.1.4 added quality of life mods and tweaked game balance configs
