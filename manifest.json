@@ -1,8 +1,8 @@
 {
-    "name": "Galaxy19_Modpack_beta",
-    "version_number": "6.0.0",
+    "name": "Galaxy19_Modpack",
+    "version_number": "6.1.0",
     "website_url": "https://github.com/TTVGalaxy19/Galaxy19-Lethal-company-mopack/tree/one-by-one",
-    "description": "Click Website bellow to join the discord and join in on the chaos, all mods baked into the modpack so it won't break when they update and configs are pre set for you, Aiming for a Vanilla+ experiance without breaking the emersion",
+    "description": "Lethal compant V47 compatible type LGU in terminal for more upgrades. configs included in modpack",
     "dependencies": [
        "BepInEx-BepInExPack-5.4.2100"
     ]

@@ -1,6 +1,8 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
 ## Version 6 (Pull from main branch)
+- v6.1.0 modpack out of beta branch
+- v6.0.1 mods added and working just stability testing before pushing to main branch
 - v6.0.0 atempt to fix modpack for V47
 
 ## Version 0 (Pre releases)

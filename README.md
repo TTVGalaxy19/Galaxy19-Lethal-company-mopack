@@ -35,7 +35,7 @@
 -   [NutNutty-AlwaysPickup-1.2.0](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/v/1.2.0/)
 -   [red_eye-LethalAutocomplete-0.4.1](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/v/0.4.1/)
 -   [Dev1A3-ScannableCodes-1.0.](https://thunderstore.io/c/lethal-company/p/Dev1A3/ScannableCodes/v/1.0.2/)
-
+-	[matsuura-HealthMetrics-1.0.2](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/v/1.0.2/)
 ### COSMETICS (8)
 -   [x753-More_Suits-1.4.1](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/v/1.4.1/)
 -   [FlipMods-MoreBlood-1.0.2](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/v/1.0.2/)
