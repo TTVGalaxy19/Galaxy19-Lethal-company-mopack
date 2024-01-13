@@ -1,5 +1,10 @@
 ## Galaxy19 Lethal company Modpack beta change log
 
+## Version 6 (Pull from main branch)
+- v6.1.0 modpack out of beta branch
+- v6.0.1 mods added and working just stability testing before pushing to main branch
+- v6.0.0 atempt to fix modpack for V47
+
 ## Version 5 (the big rebalance)
 - v5.0.1 fix the mod refrances 
 - v5.0.0 changed late game upgrades and other configs to re-balance the upgrades weather now effects scrap
